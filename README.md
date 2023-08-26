@@ -13,7 +13,15 @@ Showcasing how to use some of the components from WordPress Core, with advanced 
 - Rich Text blocks
   - Allowable HTML
   - Dynamic rendering
-  - block template
+- Headless block
+- block templates
+
 
 #### Possible ideas
 - Create block templates for @wordpress/create-block
+
+
+#Proficiencies showcased
+- Using Git for modern software development (branching)
+- Using ESNext for (React) with Gutenberg and WordPress core components to do rad stuff
+- Headless / Decoupled / WordPress as a Service (WAAS)
